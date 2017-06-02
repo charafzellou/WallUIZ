@@ -1,3 +1,32 @@
 <resources>
+    // General
     <string name="app_name">WallUIZ</string>
+    <string name="button_play">PLAY</string>
+    <string name="button_back">BACK</string>
+    <string name="button_quit">QUIT</string>
+    // Leaderboard
+    <string name="button_leaderboard">LEADERBOARD</string>
+    // Options
+    <string name="button_options">OPTIONS</string>
+    <string name="button_reset">RESET SCORES</string>
+    // A Propos
+    <string name="button_about">ABOUT US</string>
+    // Play Screen
+    <string name="button_difficulty_normal">NORMAL</string>
+    <string name="button_difficulty_normal_desc">Just a normal game of questions... but not a simple one!</string>
+    <string name="button_difficulty_hardcore">HARDCORE</string>
+    <string name="button_difficulty_hardcore_desc">For experienced masochists who fear nothing except rainbow ponies!</string>
+    // During Play Screen
+    <string name="label_question">QUESTION :</string>
+    <string name="label_answer">CHOOSE YOUR ANSWER:</string>
+    <string name="label_money">BITCOINS</string>
+    <string name="label_surrender">SURRENDER, CASH OUT?</string>
+    // Miscellaneous
+    <string name="label_wall">THE WALL</string>
+    <string name="label_won">YOU WON!</string>
+    <string name="label_won_desc">Congratulations! You were brave enough to succeed and triumph against The Wall!</string>
+    <string name="label_lost">YOU LOST!</string>
+    <string name="label_lost_desc">Pff, you tought you could outperform us? Think again, loser!</string>
+    <string name="label_retry">RETRY</string>
+    <string name="label_share">SHARE ON YOUR SOCIALS</string>
 </resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/ic_launcher"
+    tools:context="walluiz.chaze.lukiles.options">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="@string/button_options"
+        android:textAlignment="center"
+        android:textSize="36dp" />
+
+    <TextView
+        android:id="@+id/label_question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="@string/button_difficulty_normal"
+        android:textAlignment="center"
+        android:textSize="24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="@string/button_difficulty_normal_desc"
+        android:textAlignment="center"
+        android:textSize="18dp"/>
+
+    <TextView
+        android:id="@+id/button_answer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="@string/button_difficulty_hardcore"
+        android:textAlignment="center"
+        android:textSize="24dp" />
+    <TextView
+        android:id="@+id/button_answer3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="@string/button_difficulty_hardcore_desc"
+        android:textAlignment="center"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/button_answer4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="@string/button_reset"
+        android:textAlignment="center"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/button_surrender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:text="@string/button_back"
+        android:textAlignment="center"
+        android:textSize="12dp" />
+
+</LinearLayout>

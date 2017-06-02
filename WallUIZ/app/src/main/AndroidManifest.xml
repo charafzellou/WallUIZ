@@ -9,13 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity android:name="walluiz.chaze.lukiles.MainActivity" />
+        <activity android:name="walluiz.chaze.lukiles.PLAY" />
+        <activity android:name="walluiz.chaze.lukiles.duringPlay" />
+        <activity android:name="walluiz.chaze.lukiles.leaderboard" />
+        <activity android:name="walluiz.chaze.lukiles.WinActivity" />
+        <activity android:name="walluiz.chaze.lukiles.LoseActivity" />
+        <activity android:name="walluiz.chaze.lukiles.AboutActivity" />
+        <activity android:name="walluiz.chaze.lukiles.options"></activity>
     </application>
 
 </manifest>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="walluiz.chaze.lukiles.AboutActivity"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_weight="0.27"
+        android:src="@drawable/logo_esgi"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2A"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:fontFamily="serif-monospace"
+            android:textAlignment="center"
+            android:id="@+id/textView"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="62dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ZELLOU Charaf"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:fontFamily="serif-monospace"
+            android:textAlignment="center"
+            android:id="@+id/textView2"
+            android:layout_marginBottom="84dp"
+            android:layout_above="@+id/textView3"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SCHIADA Lucile"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:fontFamily="serif-monospace"
+            android:textAlignment="center"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="175dp"
+            android:id="@+id/textView3" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>
