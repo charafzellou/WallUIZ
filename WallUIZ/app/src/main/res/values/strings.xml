@@ -1,27 +1,27 @@
 <resources>
-    // General
+    <!-- // General -->
     <string name="app_name">WallUIZ</string>
     <string name="button_play">PLAY</string>
     <string name="button_back">BACK</string>
     <string name="button_quit">QUIT</string>
-    // Leaderboard
+    <!-- // Leaderboard -->
     <string name="button_leaderboard">LEADERBOARD</string>
-    // Options
+    <!-- // Options -->
     <string name="button_options">OPTIONS</string>
     <string name="button_reset">RESET SCORES</string>
-    // A Propos
+    <!-- // A Propos -->
     <string name="button_about">ABOUT US</string>
-    // Play Screen
+    <!-- // Play Screen -->
     <string name="button_difficulty_normal">NORMAL</string>
     <string name="button_difficulty_normal_desc">Just a normal game of questions... but not a simple one!</string>
     <string name="button_difficulty_hardcore">HARDCORE</string>
     <string name="button_difficulty_hardcore_desc">For experienced masochists who fear nothing except rainbow ponies!</string>
-    // During Play Screen
+    <!-- During Play Screen -->
     <string name="label_question">QUESTION :</string>
     <string name="label_answer">CHOOSE YOUR ANSWER:</string>
     <string name="label_money">BITCOINS</string>
     <string name="label_surrender">SURRENDER, CASH OUT?</string>
-    // Miscellaneous
+    <!-- Miscellaneous -->
     <string name="label_wall">THE WALL</string>
     <string name="label_won">YOU WON!</string>
     <string name="label_won_desc">Congratulations! You were brave enough to succeed and triumph against The Wall!</string>
@@ -29,4 +29,71 @@
     <string name="label_lost_desc">Pff, you tought you could outperform us? Think again, loser!</string>
     <string name="label_retry">RETRY</string>
     <string name="label_share">SHARE ON YOUR SOCIALS</string>
+    <!-- QUESTION TIME :D -->
+    <!--  // Il aurait fallu déclarer un <array></array> et grouper toutes les questions/réponses entre elles-->
+    <string name="question1">What is President Trump\'s first name?</string>
+    <string name="answer1">Barnal</string>
+    <string name="answer2">Donald</string>
+    <string name="answer3">General</string>
+    <string name="answer4">Hillary</string>
+    <string name="question2">Where was Trump born?</string>
+    <string name="answer5">New York</string>
+    <string name="answer6">Washington</string>
+    <string name="answer7">Manhattan</string>
+    <string name="answer8">Paris</string>
+    <string name="question3">What is President Trump\'s middle name?</string>
+    <string name="answer9">John</string>
+    <string name="answer10">Snow</string>
+    <string name="answer11">Frederic</string>
+    <string name="answer12">Arthur</string>
+    <string name="question4">What was Trump\'s father\'s profession?</string>
+    <string name="answer13">Womanizer</string>
+    <string name="answer14">Real estate developer</string>
+    <string name="answer15">Coal Miner</string>
+    <string name="answer16">East Coast Rapper</string>
+    <string name="question5">How many sons does Trump have?</string>
+    <string name="answer17">4</string>
+    <string name="answer18">2</string>
+    <string name="answer19">5</string>
+    <string name="answer20">55</string>
+    <string name="question6">Which famous movie did Trump appear in?</string>
+    <string name="answer21">Home Alone 1</string>
+    <string name="answer22">Home Alone 2</string>
+    <string name="answer23">Home Alone 3</string>
+    <string name="answer24">Catch Me If You Can</string>
+    <string name="question7">What was Trump\'s slogan for his 2016 campaign?</string>
+    <string name="answer25">Make America Great Again</string>
+    <string name="answer26">Make Canada Weird Again</string>
+    <string name="answer27">Make America Great Britain Again</string>
+    <string name="answer28">Make Metallica Great Again</string>
+    <string name="question8">What building is named after Trump?</string>
+    <string name="answer29">Trump Plaza</string>
+    <string name="answer30">Trump Tower</string>
+    <string name="answer31">The Trumps Resorts</string>
+    <string name="answer32">Paris Hilton Complex</string>
+    <string name="question9">Who is the female candidate that faced Trump in 2016 elections?</string>
+    <string name="answer33">Hillary Clinton</string>
+    <string name="answer34">Ted Cruz</string>
+    <string name="answer35">Oprah Winphrey</string>
+    <string name="answer36">Michelle Obama</string>
+    <string name="question10">Which party does Trump belong to?</string>
+    <string name="answer37">The Republicans</string>
+    <string name="answer38">The Democrats</string>
+    <string name="answer39">The Satanists</string>
+    <string name="answer40">The 3K</string>
+    <string name="question11">What show is Trump an Executive Producer in?</string>
+    <string name="answer41">Miss Universe</string>
+    <string name="answer42">16 and pregnant</string>
+    <string name="answer43">Sweet MTV Cribs</string>
+    <string name="answer44">The Apprentice</string>
+    <string name="question12">When did Trump become President of the USA?</string>
+    <string name="answer45">November 8, 2016</string>
+    <string name="answer46">December 13, 2016</string>
+    <string name="answer47">November 19, 2016</string>
+    <string name="answer48">December 21, 2012</string>
+    <string name="question13">WE ALL GOING TO DIE NOW! IMPEACH TRUMP!!</string>
+    <string name="answer49">ARGGGGHHH</string>
+    <string name="answer50">ARGGGGHHH</string>
+    <string name="answer51">ARGGGGHHH</string>
+    <string name="answer52">ARGGGGHHH</string>
 </resources>
